@@ -1,4 +1,15 @@
 # CreativeCanvas
+In this project of the #JavaScript30, I made a fun canvas that you can get creative with. All you have to do is press down on your mouse and drag it to start drawing whatever you want.
+
+Things I learned:
+<ul>
+  <li>Fundemantals of making a canvas</li>
+</ul>
+
+Goals:
+<ul>
+  <li>make mobile responsive</li>
+</ul>
 
 Deployed App: https://youthful-yonath-602439.netlify.com
 
